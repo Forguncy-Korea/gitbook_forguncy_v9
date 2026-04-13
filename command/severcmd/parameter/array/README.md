@@ -1,0 +1,53 @@
+# 배열 형식
+
+서버단 명령을 만들 때 기본 형식 및 배열 형식을 포함 하는 형식의 파라미터를 설정할 수 있습니다. 이 섹션에서는 테이블, 데이터 테이블 또는 기타 배열 형식의 데이터와 같은 배열 형식의 파라미터에 대해 설명합니다.
+
+<figure><img src="../../../../.gitbook/assets/image (1457).png" alt=""><figcaption></figcaption></figure>
+
+## 배열형식의 파라미터&#x20;
+
+서버단 명령을 만들 때 서버단 명령 편집 대화 상자에서 매개 변수 탭을 선택하고 파라미터 추가를 클릭한 다음 파라미터 이름 및 파라미터 유형, 기본 파라미터 형식을 기본 형식으로 설정하고 드롭다운 버튼을 클릭한 후 배열 유형을 선택할 수 있습니다.
+
+배열 형식의 파라미터를 만들고 사용하는 방법은 다음과 같습니다.
+
+![](https://help.grapecity.com.cn/download/thumbnails/72357238/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092604000\&api=v2) "데이터 추가"라는 이름의 서버 단 명령을 만든 다음 파라미터, 주문 테이블의 파라미터 이름, 파라미터 유형의 드롭다운 버튼을 클릭하고 매개 변수 유형을 배열 유형으로 선택합니다.
+
+![](<../../../../.gitbook/assets/image (397).png>)
+
+![](https://help.grapecity.com.cn/download/thumbnails/72357238/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092604000\&api=v2) 팝업 배열 항목 편집 대화 상자에서 배열 항목 추가를 클릭하고 배열 항목의 이름을 편집합니다.![](https://help.grapecity.com.cn/download/thumbnails/72357238/image2020-9-18_13-57-13.png?version=1\&modificationDate=1648092603000\&api=v2)
+
+주문 번호, 고객 이름, 완료여부, 주문날짜의 네 가지 배열 항목을 추가하고 주문 금액을 클릭한 후 다음 그림과 같이 배열 항목에 대한 데이터 유효성 검사를 설정합니다.![](https://help.grapecity.com.cn/download/thumbnails/72357238/image2020-9-18_15-0-53.png?version=1\&modificationDate=1648092603000\&api=v2)
+
+![](<../../../../.gitbook/assets/image (1074).png>)
+
+![](https://help.grapecity.com.cn/download/thumbnails/72357238/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092603000\&api=v2) 서버단 명령을 편집하는 명령입니다. \[편집 명령] 하이퍼링크를 클릭하고 서버 명령 편집 대화 상자를 표시하고 루프 명령을 선택합니다.
+
+지정된 루프의 배열을 클릭하고 팝업 대화 상자의 파라미터 목록에서 주문 테이블을 두 번 클릭하여 명령 파라미를 삽입합니다.![](https://help.grapecity.com.cn/download/thumbnails/72357238/image2020-3-11_14-53-23.png?version=1\&modificationDate=1648092604000\&api=v2)
+
+![](<../../../../.gitbook/assets/image (1783).png>)
+
+루프의 하위 명령을 설정하고 데이터 테이블 작업 명령으로 선택합니다. 작업 유형은 추가되고 대상 테이블은 "파라미터"입니다.
+
+![](<../../../../.gitbook/assets/image (1915).png>)
+
+![](https://help.grapecity.com.cn/download/thumbnails/72357238/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092603000\&api=v2) 서버단 명령이 생성되면 이 서버단 명령을 호출할 수 있습니다. 예를 들어 페이지에서 셀 범위를 선택하고 버튼으로 설정합니다. 버튼의 명령을 편집하고, 명령을 선택하여 서버단 명령을 호출하고, 서버 명령은 데이터 추가 명령을 선택합니다.
+
+매개 변수 목록에서 매개 변수 "고객주문테이블"의 값을 설정합니다. 값 뒤에 있는 버튼을 클릭하여 테이블에서 데이터 선택 대화 상자를 표시합니다. 테이블 이름과 범위를 선택하고 데이터 그룹에 대한 열 이름을 설정합니다. 페이지에서 테이블의 열 이름을 미리 설정해야 합니다.![](https://help.grapecity.com.cn/download/thumbnails/72357238/image2020-3-11_15-5-23.png?version=1\&modificationDate=1648092604000\&api=v2)
+
+![](<../../../../.gitbook/assets/image (251).png>)
+
+![](https://help.grapecity.com.cn/download/thumbnails/72357238/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092603000\&api=v2) 파라미터를 설정한 후 반환 코드를 설정하고 페이지의 셀에 정보를 반환하고 "연결 데이터를 최신 정보로 업데이트하기" 및 "서버단 명령 실행 전 데이터 유효성 검사"를 선택할 수 있습니다.
+
+![](<../../../../.gitbook/assets/image (594).png>)
+
+![](https://help.grapecity.com.cn/download/thumbnails/72357238/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092603000\&api=v2) 설정이 완료되면 확인을 클릭하여 대화 상자를 닫고 페이지를 실행합니다.
+
+페이지에서 데이터 추가 버튼을 클릭하면 서비스 쪽에서 데이터 추가 명령의 데이터 테이블 작업 명령을 실행하여 선택한 주문 테이블에 기록된 완료여부, 고객이름, 주문날짜, 주문번호를 테이블에 추가합니다.
+
+예를 들어 레코드의  번째 행을 선택한 후 데이터 추가 버튼 클릭하면 반환 코드가 422이고 반환 정보가 \[주문 테이블-> 완료여부]에 대해 설정된 정수 형식의 데이터 유효성 검사 제한을 충족하지 않는다는 메시지가 표시됩니다.&#x20;
+
+![](<../../../../.gitbook/assets/image (1979).png>)
+
+레코드의 두 번째 행을 선택하고 데이터 추가 버튼을 클릭하면 데이터가 테이블에 추가되고 반환 코드가 0으로 표시되어 서버 명령이 성공적으로 실행됨을 나타냅니다.
+
+![](<../../../../.gitbook/assets/image (1917).png>)
