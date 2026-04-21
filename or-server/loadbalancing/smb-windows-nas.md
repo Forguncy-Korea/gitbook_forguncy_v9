@@ -13,7 +13,7 @@ SMB를 통해 Windows에서 NAS 폴더에 액세스하는 방법을 소개합니
 
 ### SMB를 통해 Windows에서 NAS폴더에 엑세스&#x20;
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954141/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1673923299000\&api=v2)  도메인 사용자를 사용하여 nas 액세스 권한을 부여하는 경우 ForgancyUserService 서비스의 시작 계정을 해당 도메인 사용자로 변경하십시오.
+도메인 사용자를 사용하여 nas 액세스 권한을 부여하는 경우 ForgancyUserService 서비스의 시작 계정을 해당 도메인 사용자로 변경하십시오.
 
 ①Windows 시작 메뉴를 열고 "제어판->시스템 및 보안->관리 도구->서비스"를 선택하고 목록에서 "ForguncyServerService"를 찾아 두 번 클릭합니다.
 
@@ -27,4 +27,4 @@ SMB를 통해 Windows에서 NAS 폴더에 액세스하는 방법을 소개합니
 
 <figure><img src="../../.gitbook/assets/image (874).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954141/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923299000\&api=v2)  SMB 공유를 활성화하면 UNC 경로(예: \\\10.32.4.4\fgcnas)를 얻습니다. 이 경로는 공유 스토리지 경로를 구성할 때 사용해야 합니다.
+SMB 공유를 활성화하면 UNC 경로(예: \\\10.32.4.4\fgcnas)를 얻습니다. 이 경로는 공유 스토리지 경로를 구성할 때 사용해야 합니다.

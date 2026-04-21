@@ -26,7 +26,7 @@
 
 **단계**
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954127/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1673923299000\&api=v2)  자동 연결을 구성합니다.
+자동 연결을 구성합니다.
 
 * (권장) " /etc/fstab " 파일을 열고 다음 명령을 추가합니다.
 
@@ -60,9 +60,9 @@
 
 &#x20;   **sudo mount -t nfs -o vers=3 file-system-id-xxxx.region.nas.com:/ /mount-point**
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954127/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923299000\&api=v2)  재부팅 Linux 인스턴스를 실행합니다.
+재부팅 Linux 인스턴스를 실행합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954127/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1673923299000\&api=v2)마운트 결과를 보려면 **mount-l** 명령을   실행하십시오 .
+마운트 결과를 보려면 **mount-l** 명령을   실행하십시오 .
 
 아래 이미지는 성공적인 마운트의 예입니다.
 

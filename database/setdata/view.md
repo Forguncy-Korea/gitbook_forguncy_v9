@@ -12,15 +12,15 @@
 
 아래 절차대로 진행하세요.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355684/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092581000\&api=v2) 리본 메뉴 모음에서 \[만들기]>\[뷰]를 선택합니다.                                                                            &#x20;
+1. 리본 메뉴 모음에서 \[만들기]>\[뷰]를 선택합니다.                                                                            &#x20;
 
 ![](../../.gitbook/assets/view1.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355684/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092581000\&api=v2)\[보기 만들기] 대화 상자에서 뷰 이름과 SQL 문을 입력합니다.                 &#x20;
+2. \[보기 만들기] 대화 상자에서 뷰 이름과 SQL 문을 입력합니다.                 &#x20;
 
 ![](../../.gitbook/assets/view2.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355684/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092581000\&api=v2)편집이 완료되면 \[확인]을 클릭합니다. 데이터 테이블 아래에 뷰가 표시됩니다.                &#x20;
+3. 편집이 완료되면 \[확인]을 클릭합니다. 데이터 테이블 아래에 뷰가 표시됩니다.                &#x20;
 
 ![](../../.gitbook/assets/view3.png)
 

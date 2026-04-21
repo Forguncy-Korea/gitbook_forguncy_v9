@@ -6,7 +6,7 @@
 
 
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954068/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1673923298000\&api=v2)  서버관리자에 로그인하고 "설정 -> 서버부하 분산 모드 설정" 을선택하여 부하 분산 구성 페이지로 들어갑니다.
+서버관리자에 로그인하고 "설정 -> 서버부하 분산 모드 설정" 을선택하여 부하 분산 구성 페이지로 들어갑니다.
 
 "활성화" 앞의 체크 박스를 체크한 후 로드 밸런싱 구성을 수행합니다.
 
@@ -24,11 +24,8 @@ Redis 서비스 주소와 비밀번호를 설정합니다.
 
 애플리케이션 메타데이터 및 애플리케이션 구성과 같은 정보를 저장하도록 공유 스토리지 경로를 설정합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954068/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923298000\&api=v2)  앱을 배포합니다. 애플리케이션을 모든 서버에 배포합니다. Linux 서버에 배포하는 경우 포트 번호가 사용되지 않는지 확인하세요.
-
-배포된 애플리케이션에는 기본 제공 데이터 테이블이 있을 수 없습니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/80954068/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1673923298000\&api=v2)  Nginx가 설치된 Linux 서버에서 Nginx를 구성합니다.
+1. 앱을 배포합니다. 애플리케이션을 모든 서버에 배포합니다. Linux 서버에 배포하는 경우 포트 번호가 사용되지 않는지 확인하세요.배포된 애플리케이션에는 기본 제공 데이터 테이블이 있을 수 없습니다.
+2. Nginx가 설치된 Linux 서버에서 Nginx를 구성합니다.
 
 **Debian 기반(운영 체제는 Ubuntu)**
 
@@ -140,7 +137,7 @@ server {
 
 5\. Nginx를 다시 시작한 후 Nginx를 통해 애플리케이션에 액세스할 수 있습니다. http:// _Nginx 서버 IP_ / _애플리케이션 이름_
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954068/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1673923298000\&api=v2)  (선택사항) 애플리케이션을 HTTPS 웹사이트로 게시하려면 Nginx가 설치된 서버에서 다음 단계를 수행해야 합니다.
+&#x20;(선택사항) 애플리케이션을 HTTPS 웹사이트로 게시하려면 Nginx가 설치된 서버에서 다음 단계를 수행해야 합니다.
 
 **1. SSL 인증서를 생성합니다.**
 

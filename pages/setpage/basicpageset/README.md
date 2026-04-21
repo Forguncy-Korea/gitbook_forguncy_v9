@@ -85,10 +85,9 @@
 
 
 
-* ![](https://help.grapecity.com.cn/download/thumbnails/72352354/8-1-2-2_5.png?version=1\&modificationDate=1648092530000\&api=v2)**: 선택한 객체를 맨 앞에 놓습니다.**
-* ![](https://help.grapecity.com.cn/download/thumbnails/72352354/8-1-2-2_6.png?version=1\&modificationDate=1648092530000\&api=v2)**: 선택한 객체를 한 위치 앞으로 이동합니다.**
-* ![](https://help.grapecity.com.cn/download/thumbnails/72352354/8-1-2-2_7.png?version=1\&modificationDate=1648092530000\&api=v2)**: 선택한 객체를 한 위치 뒤로 이동합니다.**
-* ![](https://help.grapecity.com.cn/download/thumbnails/72352354/8-1-2-2_8.png?version=1\&modificationDate=1648092530000\&api=v2)**: 선택한 객체를 맨 위에 놓습니다.**
+* ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80939623/8-1-2-2_5.png)**: 선택한 객체를 맨 앞에 놓습니다.**
+* ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80939623/8-1-2-2_6.png)**: 선택한 객체를 한 위치 앞으로 이동합니다.**
+* ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80939623/8-1-2-2_7.png)**: 선택한 객체를 한 위치 뒤로 이동합니다.**
+* ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80939623/8-1-2-2_8.png)**: 선택한 객체를 맨 위에 놓습니다.**
 {% endhint %}
 
-##

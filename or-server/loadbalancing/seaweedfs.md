@@ -64,7 +64,7 @@ echo "weed binary version: $version"
 
 ### 애플리케이션 서버에 SeaweedFS설치&#x20;
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954154/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1673923299000\&api=v2)  sshfs가 설치되어 있는지 확인하십시오. 설치되지 않은 경우 아래 단계를 따르십시오.
+&#x20;sshfs가 설치되어 있는지 확인하십시오. 설치되지 않은 경우 아래 단계를 따르십시오.
 
 * RPM 기반(운영체제는 CentOS, 낙찰 Kylin) Linux를 사용하는 경우 다음 명령을 실행하십시오.
 
@@ -82,15 +82,15 @@ echo "weed binary version: $version"
 
 **`sudo apt-get install sshfs -y`**
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954154/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923299000\&api=v2)  다음 명령을 실행하여 Mosaic 애플리케이션이 공유 스토리지에 액세스할 수 있도록 마운트를 생성합니다.
+다음 명령을 실행하여 Mosaic 애플리케이션이 공유 스토리지에 액세스할 수 있도록 마운트를 생성합니다.
 
 **sudo mkdir /mnt/weed**
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954154/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1673923299000\&api=v2)  "/etc/fuse.conf" 파일을 편집하고 주석을 제거하거나 다음을 추가합니다.
+"/etc/fuse.conf" 파일을 편집하고 주석을 제거하거나 다음을 추가합니다.
 
 user\_allow\_other
 
-![](https://help.grapecity.com.cn/download/thumbnails/80954154/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1673923299000\&api=v2)  "/etc/systemd/system/"에 "seaweedfuse.service" 파일을 만들고 다음 콘텐츠를 추가합니다.
+&#x20;"/etc/systemd/system/"에 "seaweedfuse.service" 파일을 만들고 다음 콘텐츠를 추가합니다.
 
 -dir 매개변수에 유의하십시오. 이 경로를 가진 폴더가 존재하는지 확인해야 합니다. 이 경로는 공유 스토리지 경로를 구성할 때 사용해야 합니다.
 
@@ -100,7 +100,7 @@ SHARED\_STORAGE\_SERVER\_IP를 실제 스토리지 서버 IP 주소로 바꿔야
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 \
-![](https://help.grapecity.com.cn/download/thumbnails/80954154/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1673923299000\&api=v2)  다음 명령을 실행하여 systemd 데몬을 다시 로드하고 부팅 시 서비스를 활성화하고 SeaweedFS 서비스를 시작합니다.
+&#x20;다음 명령을 실행하여 systemd 데몬을 다시 로드하고 부팅 시 서비스를 활성화하고 SeaweedFS 서비스를 시작합니다.
 
 **sudo systemctl daemon-reload**\
 **sudo systemctl enable seaweedfuse.service**\

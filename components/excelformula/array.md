@@ -30,18 +30,17 @@
 
 그림 1에 표시된 판매 데이터에서 E 열의 총 판매 값을 계산하려면 다중 셀 수식을 사용할 수 있습니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355574/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092579000\&api=v2) E2를 선택합니다:E5 셀 범위입니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72355574/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092579000\&api=v2) 수식창에 수식 =C2:C5\*D2:D5를 입력합니다.
+1. E2를 선택합니다:E5 셀 범위입니다.
+2. 수식창에 수식 =C2:C5\*D2:D5를 입력합니다.
 
 ![](../../.gitbook/assets/fx7.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355574/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092579000\&api=v2) 수식창에 커서를 두고 Ctrl+Shift+Enter를 클릭하 배열 수식을 완료합니다. 수식 편집 표시줄에서 수식이 "{=C2:C5\*D2:D5}"로 표시되어 수식이 배열 수식이라는 것을 나타낼 수 있습니다.\
-중괄호 "{}"를 사용하여 수식을 묶고 선택한 범위의 셀에 배열 수식을 삽입합니다.
+3. 수식창에 커서를 두고 Ctrl+Shift+Enter를 클릭하 배열 수식을 완료합니다. 수식 편집 표시줄에서 수식이 "{=C2:C5\*D2:D5}"로 표시되어 수식이 배열 수식이라는 것을 나타낼 수 있습니다.\
+   중괄호 "{}"를 사용하여 수식을 묶고 선택한 범위의 셀에 배열 수식을 삽입합니다.
 
 ![](../../.gitbook/assets/excel.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355574/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092579000\&api=v2) 실행 후 브라우저 페이지에서 다중 셀 배열 수식의 계산을 볼 수 있습니다.
+4. 실행 후 브라우저 페이지에서 다중 셀 배열 수식의 계산을 볼 수 있습니다.
 
 ![](../../.gitbook/assets/excel2.png)
 

@@ -604,7 +604,7 @@
 * [백업 및 복원](or-server/backup-and-rollback/README.md)
   * [서버 측 자동 백업 및 복원](or-server/backup-and-rollback/auto-server.md)
   * [서버 측 수동 백업 및 복원](or-server/backup-and-rollback/manual.md)
-  * [디자이너 백업 및 복원](or-server/backup-and-rollback/builder.md)
+  * [빌더 백업 및 복원](or-server/backup-and-rollback/builder.md)
 * [웹사이트 유지보수](or-server/websitemaintenance/README.md)
   * [일시 중지 및 활성화](or-server/websitemaintenance/pause_activation.md)
   * [데이터 병합 및 마이그레이션](or-server/websitemaintenance/datemerge_migration.md)

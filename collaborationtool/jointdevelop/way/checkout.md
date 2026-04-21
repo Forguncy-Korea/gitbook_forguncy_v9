@@ -8,10 +8,10 @@
 
 공동 작업 프로젝트를 열면 데이터 테이블, 페이지 및 마스터 페이지 아래의 개체 앞에 현재 상태를 나타내는 아이콘이 있음을 알 수 있습니다.
 
-* ![](https://help.grapecity.com.cn/download/thumbnails/72364042/image2019-9-23_15-31-20.png?version=1\&modificationDate=1648092709000\&api=v2): 현재 객체를 사용할 수 있으며 편집을 위해 체크 아웃할 수 있음을 나타냅니다.
-* ![](https://help.grapecity.com.cn/download/thumbnails/72364042/image2019-9-23_15-31-58.png?version=1\&modificationDate=1648092709000\&api=v2): 다른 사용자가 체크 아웃하는 등 폴더 아래의 하위 모듈이 변경되었습니다. 폴더를 클릭하면 각 개체의 현재 상태가 표시됩니다.
-* ![](https://help.grapecity.com.cn/download/thumbnails/72364042/image2019-9-23_15-35-7.png?version=1\&modificationDate=1648092709000\&api=v2): 현재 사용자가 체크 아웃했으며 편집할 수 있음을 나타냅니다.
-* ![](https://help.grapecity.com.cn/download/thumbnails/72364042/image2019-9-23_15-35-24.png?version=1\&modificationDate=1648092709000\&api=v2): 다른 사용자가 체크 아웃했으며 편집할 수 없습니다. 체크 아웃하고 편집하려면 다른 사용자가 체크 인을 즉시 사용할 때까지 기다려야 합니다.![](https://help.grapecity.com.cn/download/thumbnails/72364042/image2019-9-23_15-31-20.png?version=1\&modificationDate=1648092709000\&api=v2)
+* ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80953954/image2019-9-23_15-31-20.png): 현재 객체를 사용할 수 있으며 편집을 위해 체크 아웃할 수 있음을 나타냅니다.
+* ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80953954/image2019-9-23_15-31-58.png): 다른 사용자가 체크 아웃하는 등 폴더 아래의 하위 모듈이 변경되었습니다. 폴더를 클릭하면 각 개체의 현재 상태가 표시됩니다.
+* ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80953954/image2019-9-23_15-35-7.png): 현재 사용자가 체크 아웃했으며 편집할 수 있음을 나타냅니다.
+* ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80953954/image2019-9-23_15-35-24.png): 다른 사용자가 체크 아웃했으며 편집할 수 없습니다. 체크 아웃하고 편집하려면 다른 사용자가 체크 인을 즉시 사용할 때까지 기다려야 합니다.
 
 ## 체크 아웃 작업&#x20;
 
@@ -29,7 +29,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
-동시에 다른 사용자의 경우 페이지의 상태가 변경되고 위로 마우스를 가져가면 Nancy에 의해 체크 아웃되었음을 나타냅니다.![](https://help.grapecity.com.cn/download/thumbnails/72364042/image2019-9-23_15-35-24.png?version=1\&modificationDate=1648092709000\&api=v2)![](https://help.grapecity.com.cn/download/thumbnails/72364042/image2019-9-23_15-35-24.png?version=1\&modificationDate=1648092709000\&api=v2)
+동시에 다른 사용자의 경우 페이지의 상태가 변경되고 위로 마우스를 가져가면 Nancy에 의해 체크 아웃되었음을 나타냅니다.
 
 페이지를 편집하면 모듈이 Nancy 의해 수정되었으며 편집할 수 없다는 메시지가 표시됩니다.
 

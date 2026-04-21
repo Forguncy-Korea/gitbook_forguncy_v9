@@ -6,33 +6,31 @@
 
 다음과 같이 데이터 테이블에 데이 만들기 권한을 설정하고 사용자 또는 역할이 데이터를 만들 수 있는 권한을 제어합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356953/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092599000\&api=v2) 데이터 테이블을 열고 테이블 설정에서 데이터 추가/생성 권한 편집을 선택합니다.
+1. 데이터 테이블을 열고 테이블 설정에서 데이터 추가/생성 권한 편집을 선택합니다.
 
 ![](<../../.gitbook/assets/image (200).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356953/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092599000\&api=v2) 활성화에 체크하고 권한 추가를 클릭하여 권한 대상, 조건 및 데이터 추가/생성 허용을 설정합니다.
-
-권한 제어 행을 선택하고 권한 부여 삭제를 클릭하여 삭제합니다.
+2. 활성화에 체크하고 권한 추가를 클릭하여 권한 대상, 조건 및 데이터 추가/생성 허용을 설정합니다.\
+   권한 제어 행을 선택하고 권한 부여 삭제를 클릭하여 삭제합니다.
 
 ![](<../../.gitbook/assets/image (1948).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356953/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092599000\&api=v2) 권한 대상 사용자입니다. 기본값은 모든 사용자이며 드롭다운 화살표를 클릭하여 로그인 사용자 및 사용자 역할을 선택합니다.
-
-예를 들어 로그인한 사용자에게 권한 부여를 선택합니다.
+3. 권한 대상 사용자입니다. 기본값은 모든 사용자이며 드롭다운 화살표를 클릭하여 로그인 사용자 및 사용자 역할을 선택합니다.\
+   예를 들어 로그인한 사용자에게 권한 부여를 선택합니다.
 
 ![](<../../.gitbook/assets/image (898).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356953/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092599000\&api=v2) 조건을 설정합니다. 다음 그림과 같이 팝업 대화 상자에서 "주문 날짜가 2019/1/1보다 큽니다"와 같은 조건을 설정하려면 클릭합니다.![](https://help.grapecity.com.cn/download/thumbnails/72356953/image2019-2-19_9-55-13.png?version=1\&modificationDate=1648092599000\&api=v2)
+4. 조건을 설정합니다. 다음 그림과 같이 팝업 대화 상자에서 "주문 날짜가 2019/1/1보다 큽니다"와 같은 조건을 설정하려면 클릭합니다.
 
 ![](<../../.gitbook/assets/image (1956).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356953/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092599000\&api=v2) 데이터 생성을 허용할지 여부를 설정하고 체크박스 선택하여 레코드를 만들 수 있도록 합니다.
+5. 데이터 생성을 허용할지 여부를 설정하고 체크박스 선택하여 레코드를 만들 수 있도록 합니다.
 
 ![](<../../.gitbook/assets/image (1550).png>)
 
 
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356953/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092599000\&api=v2) 설정이 완료되면 페이지를 실행하고 사용자 유재석을 사용하여 로그인하고 로그인 한 후 새 데이터를 추가합니다.
+6. 설정이 완료되면 페이지를 실행하고 사용자 유재석을 사용하여 로그인하고 로그인 한 후 새 데이터를 추가합니다.
 
 * 주문 날짜가 2019/1/1보다 작으면 레코드 생성이 실패합니다.
 

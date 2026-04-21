@@ -10,19 +10,19 @@
 
 예를 들어 직원을 추가하는 서버단 명령을 만듭니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72357211/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092603000\&api=v2) "직원 추가"라는 이름의 서버단 명령을 만든 다음 파라미터를 설정하고 다음 그림과 같이 3가지 기본 형식의 파라미터를 추가합니다.
+1. "직원 추가"라는 이름의 서버단 명령을 만든 다음 파라미터를 설정하고 다음 그림과 같이 3가지 기본 형식의 파라미터를 추가합니다.
 
 ![](<../../../.gitbook/assets/image (182).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72357211/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092603000\&api=v2) 파라미터에 대한 데이터 유효성 검사를 설정합니다. 다음 그림과 같이 파라미터 뒤에 있는 데이터 유효성 검사 아이콘을 클릭하여 팝업 데이터 유효성 검사 대화 상자에서 설정합니다.![](https://help.grapecity.com.cn/download/thumbnails/72357211/image2020-9-17_14-33-36.png?version=1\&modificationDate=1648092603000\&api=v2)
+2. 파라미터에 대한 데이터 유효성 검사를 설정합니다. 다음 그림과 같이 파라미터 뒤에 있는 데이터 유효성 검사 아이콘을 클릭하여 팝업 데이터 유효성 검사 대화 상자에서 설정합니다.![](https://help.grapecity.com.cn/download/thumbnails/72357211/image2020-9-17_14-33-36.png?version=1\&modificationDate=1648092603000\&api=v2)
 
 ![](<../../../.gitbook/assets/image (210).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72357211/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092603000\&api=v2) 파라미터를 설정한 후 명령을 편집하고 데이터 테이블 작업 명령을 선택합니다. 작업 유형은 추가, 필드 추가, 필드 값 설정에 대한 해당 매개 변수입니다.
+3. 파라미터를 설정한 후 명령을 편집하고 데이터 테이블 작업 명령을 선택합니다. 작업 유형은 추가, 필드 추가, 필드 값 설정에 대한 해당 매개 변수입니다.
 
 ![](<../../../.gitbook/assets/image (1631).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72357211/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092603000\&api=v2) 설정이 완료되면 이 서버단 명령을 호출할 수 있습니다.
+4. 설정이 완료되면 이 서버단 명령을 호출할 수 있습니다.
 
 예를 들어 페이지에서 셀 범위를 선택하고 버튼을 설정합니다. 버튼의 명령을 편집하고 "서버단 명령 호출"으로 명령을 선택한 다음 서버단 명령 뒤에 있는 드롭다운을 클릭하고 드롭다운 목록에서 "직원 추가"라는 서버단 명령을 선택합니다.
 
@@ -30,7 +30,7 @@
 
 ![](<../../../.gitbook/assets/image (1436).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72357211/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092603000\&api=v2) 실행 후 페이지의 주문날짜 텍스트상자 외  값을 입력한 후 직원 추가 버튼을 클릭하면 매개 변수의 데이터 유효성 검사에 설정된 오류 경고가 표시되는 경고 상자가 나타납니다.
+5. 실행 후 페이지의 주문날짜 텍스트상자 외  값을 입력한 후 직원 추가 버튼을 클릭하면 매개 변수의 데이터 유효성 검사에 설정된 오류 경고가 표시되는 경고 상자가 나타납니다.
 
 ![](<../../../.gitbook/assets/image (543).png>)
 

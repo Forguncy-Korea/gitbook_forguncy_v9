@@ -35,7 +35,7 @@ alert(oaDate);
 
 ### 사용 예제&#x20;
 
-![](https://help.grapecity.com.cn/download/thumbnails/72364515/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092716000\&api=v2) 페이지에서 셀 범위를 선택하고 셀 유형을 단추로 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
+1. 페이지에서 셀 범위를 선택하고 셀 유형을 단추로 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
 
 <figure><img src="../../../../.gitbook/assets/image (613).png" alt=""><figcaption></figcaption></figure>
 

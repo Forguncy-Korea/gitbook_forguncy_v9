@@ -4,7 +4,7 @@
 
 앱을 실행하는 방법에는 세 가지가 있습니다.
 
-방법1. 디자이너에서 빠른 액세스 도구 모음을 직접 클릭하고 앱을 실행하면 웹 페이지가 시스템 기본 브라우저에서 열립니다.![](https://help.grapecity.com.cn/download/thumbnails/72363014/image2018-3-5_16-38-27.png?version=1\&modificationDate=1648092695000\&api=v2)
+방법1. 디자이너에서 빠른 액세스 도구 모음을 직접 클릭하고 앱을 실행하면 웹 페이지가 시스템 기본 브라우저에서 열립니다.
 
 옆에 있는 드롭다운 삼각형을 클릭하여 브라우저를 선택하여 웹 페이지를 엽니다.![](https://help.grapecity.com.cn/download/thumbnails/72363014/image2018-3-5_16-38-27.png?version=1\&modificationDate=1648092695000\&api=v2)
 

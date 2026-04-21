@@ -18,23 +18,23 @@
 
 ## 수식 표시줄에 수식 삽입하기&#x20;
 
-수식 표시줄에서 사용할 수 있습니다![](https://help.grapecity.com.cn/download/thumbnails/72355464/image2018-2-27_11-17-51.png?version=1\&modificationDate=1648092577000\&api=v2)함수를 삽입합니다.
+수식 표시줄에서 사용할 수 있습니다. 함수를 삽입합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355464/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092577000\&api=v2) 셀을 선택합니다. 수식 표시줄을 클릭합니다.![](https://help.grapecity.com.cn/download/thumbnails/72355464/image2018-11-27_14-41-55.png?version=1\&modificationDate=1648092577000\&api=v2)
+1. 셀을 선택합니다. 수식 표시줄을 클릭합니다.
 
 ![](../../.gitbook/assets/for1.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355464/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092577000\&api=v2) 팝업 삽입 함수 대화 상자에서 함수를 선택하고 두 번 클릭하여 아래 수식 편집 막대에 함수를 추가합니다. 예를 들어 sum 함수를 선택하고 sum 함수를 두 번 클릭하여 수식 편집 모음에 추가합니다.
+2. 팝업 삽입 함수 대화 상자에서 함수를 선택하고 두 번 클릭하여 아래 수식 편집 막대에 함수를 추가합니다. 예를 들어 sum 함수를 선택하고 sum 함수를 두 번 클릭하여 수식 편집 모음에 추가합니다.
 
 ![](../../.gitbook/assets/sum.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355464/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092577000\&api=v2) 함수 삽입 대화 상자의 수식 입력에 계산할 셀을 직접 입력할 수 있습니다. 또는 \[확인]을 클릭한 후 함수 삽입 대화 상자를 닫은 후 빌더의 셀 또는 수식 편집 모음에 계산할 셀을 입력합니다.
+3. 함수 삽입 대화 상자의 수식 입력에 계산할 셀을 직접 입력할 수 있습니다. 또는 \[확인]을 클릭한 후 함수 삽입 대화 상자를 닫은 후 빌더의 셀 또는 수식 편집 모음에 계산할 셀을 입력합니다.
 
 {% hint style="info" %}
 함수를 삽입하면 등호 "="를 자동으로 삽입합니다.
 {% endhint %}
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355464/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092577000\&api=v2) 수식 편집이 완료되면 Enter 키를 누르거나 다른 셀을 클릭하여 수식 편집 상태를 종료합니다. 실행 후 브라우저에서 수식의 계산을 볼 수 있습니다.
+4. 수식 편집이 완료되면 Enter 키를 누르거나 다른 셀을 클릭하여 수식 편집 상태를 종료합니다. 실행 후 브라우저에서 수식의 계산을 볼 수 있습니다.
 
 ![](../../.gitbook/assets/res.png)
 

@@ -6,17 +6,16 @@
 
 
 
-![](https://help.grapecity.com.cn/download/thumbnails/80959472/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1675999591000\&api=v2)  프로젝트탐색기에서   서버 커맨드의 레이블을 마우스 오른쪽 버튼으로 클릭하고 "서버단 명령생성하기"을 선택하면 서버 커맨드 생성 대화상자가 팝업된다.
-
-또는 "폴더 만들기"를 선택하여 폴더에 서버 명령을 만듭니다.
+1. 프로젝트탐색기에서   서버 커맨드의 레이블을 마우스 오른쪽 버튼으로 클릭하고 "서버단 명령생성하기"을 선택하면 서버 커맨드 생성 대화상자가 팝업된다.\
+   또는 "폴더 만들기"를 선택하여 폴더에 서버 명령을 만듭니다.
 
 <figure><img src="../../../../.gitbook/assets/image (810).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80959472/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1675999591000\&api=v2)  서버 명령에 대한 일반 설정을 편집합니다. 서버 명령의 이름을 "Excel 가져오기"로 설정합니다.
+2. 서버 명령에 대한 일반 설정을 편집합니다. 서버 명령의 이름을 "Excel 가져오기"로 설정합니다.
 
 <figure><img src="../../../../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80959472/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1675999591000\&api=v2)  서버 명령을 편집하는 명령입니다. "명령 편집" 하이퍼링크를 클릭하여 서버 명령 편집 대화 상자를 팝업하고 서버 가져오기 및 내보내기 Excel 명령을 선택합니다. 명령의 설정 및 설명은 아래 표를 참조하십시오.
+3. 서버 명령을 편집하는 명령입니다. "명령 편집" 하이퍼링크를 클릭하여 서버 명령 편집 대화 상자를 팝업하고 서버 가져오기 및 내보내기 Excel 명령을 선택합니다. 명령의 설정 및 설명은 아래 표를 참조하십시오.
 
 | 설정              | 설명                                                                                                                                                                                                                            |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,12 +28,12 @@
 
 <figure><img src="../../../../.gitbook/assets/image (1903).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80959472/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1675999591000\&api=v2)  설정구성이 완료되면 서버 명령을 호출할 수 있습니다.
+4. &#x20;설정구성이 완료되면 서버 명령을 호출할 수 있습니다.
 
 페이지에서 셀 범위를 선택하여 버튼으로 설정합니다. 버튼의 명령을 편집하고 명령을 "서버단명령호출" 을선택한 다음 서버 명령 옆에 있는 드롭다운을 클릭하고 드롭다운 목록에서 서버 명령 "Excel 가져오기"를 선택한 다음 "고급 설정 표시"를 클릭합니다. "연결  데이터를 최신 정보로 업데이트하기" 선택하          면 서버가 Excel 가져오기 명령을 호출한 후 페이지가 데이터를 다시 로드하고 Excel 파일을 가져온 후 데이터를 표시합니다.
 
 <figure><img src="../../../../.gitbook/assets/image (1902).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80959472/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1675999591000\&api=v2)  설정이 완료되면 확인을 클릭하여 대화 상자를 닫습니다. 페이지를 실행하고,페이지에서 "Excel 가져오기" 버튼을 클릭하면 지정된 경로의 Excel 파일을 가져옵니다.
+5. &#x20;설정이 완료되면 확인을 클릭하여 대화 상자를 닫습니다. 페이지를 실행하고,페이지에서 "Excel 가져오기" 버튼을 클릭하면 지정된 경로의 Excel 파일을 가져옵니다.
 
 <figure><img src="../../../../.gitbook/assets/image (1832).png" alt=""><figcaption></figcaption></figure>

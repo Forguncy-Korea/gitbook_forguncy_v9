@@ -14,7 +14,7 @@
 
 다음은 서비스 쪽 가져오기 내보내기 CSV를 만드는 예약된 작업을 예로 들어 예약된 작업을 만드는 자세한 작업을 보여 드리겠습니다.
 
-&#x20;![](https://help.grapecity.com.cn/download/thumbnails/72357087/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092601000\&api=v2)  왼쪽의 예약 작업의 탭을 마우스 오른쪽 버튼으로 클릭하고 예약된 작업 생성을 선택하면 예약된 작업을 만드는 대화 상자가 나타납니다.
+&#x20;1\. 왼쪽의 예약 작업의 탭을 마우스 오른쪽 버튼으로 클릭하고 예약된 작업 생성을 선택하면 예약된 작업을 만드는 대화 상자가 나타납니다.
 
 폴더 만들기를 선택하여 폴더에 예약된 작업을 만들 수도 있습니다.
 
@@ -22,11 +22,11 @@
 
 ![](<../../.gitbook/assets/image (1181).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72357087/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092601000\&api=v2)  예약 작업 만들기에서 편집합니다. 일반 설정을 사용하면 나중에 자신 또는 다른 사용자가 쉽게 유지 관리할 수 있도록 예약된 작업의 이름과 설명을 설정할 수 있습니다.
+2. 예약 작업 만들기에서 편집합니다. 일반 설정을 사용하면 나중에 자신 또는 다른 사용자가 쉽게 유지 관리할 수 있도록 예약된 작업의 이름과 설명을 설정할 수 있습니다.
 
 ![](<../../.gitbook/assets/image (1437).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72357087/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092601000\&api=v2) 타이밍 작업의 트리거를 편집하여 이 타이밍 작업에 대한 트리거를 설정합니다.
+3. 타이밍 작업의 트리거를 편집하여 이 타이밍 작업에 대한 트리거를 설정합니다.
 
 ![](<../../.gitbook/assets/image (1463).png>)
 
@@ -43,21 +43,21 @@
 
 ![](<../../.gitbook/assets/image (1471).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72357087/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092601000\&api=v2) 예약된 작업에 의해 실행되는 명령을 편집합니다. \[명령 편집] 하이퍼링크를 클릭하고 예약된 작업 편집 대화 상자를 표시하고 CSV 가져오기/내보내기를 선택합니다.
+4. 예약된 작업에 의해 실행되는 명령을 편집합니다. \[명령 편집] 하이퍼링크를 클릭하고 예약된 작업 편집 대화 상자를 표시하고 CSV 가져오기/내보내기를 선택합니다.
 
 CSV 작업을 선택하고 데이터 테이블 및 CSV의 파일 경로를 선택합니다.
 
 ![](<../../.gitbook/assets/image (65).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72357087/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092601000\&api=v2) 설정이 완료되면 개체 관리자의 예약된 작업 탭에서 생성된 예약된 작업을 볼 수 있습니다.
+5. 설정이 완료되면 개체 관리자의 예약된 작업 탭에서 생성된 예약된 작업을 볼 수 있습니다.
 
-예약된 작업 앞에 있는 작업을 클릭하여 확장합니다.![](https://help.grapecity.com.cn/download/thumbnails/72357087/image2020-9-18_16-6-47.png?version=1\&modificationDate=1648092601000\&api=v2)계획 작업을 관리하고 일반/트리거/명령을 두 번 클릭하면 해당 탭이 직접 팝업되므로 보고 수정할 수 있습니다.
+예약된 작업 앞에 있는 작업을 클릭하여 확장합니다.계획 작업을 관리하고 일반/트리거/명령을 두 번 클릭하면 해당 탭이 직접 팝업되므로 보고 수정할 수 있습니다.
 
 예약된 작업을 선택하고 마우스 오른쪽 버튼을 클릭하면 예약된 작업을 사용하지 않도록 설정하거나 예약된 작업을 복사하도록 선택할 수 있는 마우스 오른쪽 버튼 클릭 메뉴가 나타납니다.
 
 ![](<../../.gitbook/assets/image (75).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72357087/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092601000\&api=v2) 설정이 완료되면 앱을 실행하거나 게시하고 설정된 시간에 CSV 내보내기 명령을 실행합니다.
+6. 설정이 완료되면 앱을 실행하거나 게시하고 설정된 시간에 CSV 내보내기 명령을 실행합니다.
 
 ## 예약된 작업 테스트 하기&#x20;
 
